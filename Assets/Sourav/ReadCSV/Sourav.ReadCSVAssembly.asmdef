@@ -1,0 +1,14 @@
+{
+    "name": "Sourav.ReadCSVAssembly",
+    "references": [
+        "Sourav.CreatePrefabInstanceAssembly"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
